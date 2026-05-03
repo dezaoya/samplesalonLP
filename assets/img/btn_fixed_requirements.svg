@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+  <title id="title">募集要項を見る</title>
+  <desc id="desc">White rounded button with gold border, document icon, and arrow.</desc>
+  <rect x="7" y="7" width="746" height="136" rx="68" fill="#fffdf9" stroke="#b98a3a" stroke-width="4"/>
+  <g fill="none" stroke="#b98a3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M166 43h32l23 23v42h-55z"/>
+    <path d="M197 43v25h24"/>
+    <path d="M181 79h24M181 96h31"/>
+    <path d="M642 55l26 22-26 22"/>
+  </g>
+  <text x="410" y="92" text-anchor="middle" fill="#b98a3a" font-family="'Noto Sans JP', 'Hiragino Sans', sans-serif" font-size="38" font-weight="700" letter-spacing="5">募集要項を見る</text>
+</svg>

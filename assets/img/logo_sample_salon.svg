@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" role="img" aria-labelledby="title desc">
+  <title id="title">sample salon logo</title>
+  <desc id="desc">Gold SS monogram and sample salon logotype.</desc>
+  <g fill="none" stroke="#b98a3a" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 38c-21 0-36 12-36 28 0 19 21 25 39 31 17 6 30 12 30 27 0 18-17 30-39 30-17 0-31-7-40-18" stroke-width="4"/>
+    <path d="M166 16c-25 0-42 14-42 33 0 22 25 29 47 36 20 7 36 15 36 33 0 22-20 36-47 36-20 0-38-8-50-22" stroke-width="4"/>
+    <path d="M82 131c25 5 58-2 83-21 23-18 39-46 44-79" stroke-width="2.5"/>
+    <path d="M193 109c14 1 26 7 36 18" stroke-width="2"/>
+    <path d="M217 118c1-9 5-17 12-23" stroke-width="2"/>
+    <path d="M228 96c-4 10-4 20 2 29" stroke-width="2"/>
+    <path d="M213 124c-5-7-12-11-21-12" stroke-width="2"/>
+  </g>
+  <text x="140" y="198" text-anchor="middle" fill="#b98a3a" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="7">sample salon</text>
+</svg>
