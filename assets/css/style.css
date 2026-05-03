@@ -279,11 +279,6 @@ a {
   line-height: 1.55;
 }
 
-.benefit-copy h3.nowrap-heading {
-  font-size: clamp(1.28rem, 5vw, 1.6rem);
-  white-space: nowrap;
-}
-
 .benefit-copy h3 span,
 .voice-copy h3,
 .flow-number {
@@ -335,32 +330,6 @@ a {
   font-size: clamp(1.24rem, 5vw, 1.58rem);
   letter-spacing: 0;
   line-height: 1.65;
-}
-
-.voice-card-wide-title .voice-copy {
-  display: contents;
-}
-
-.voice-card-wide-title .voice-photo {
-  grid-column: 1;
-  grid-row: 2 / span 2;
-  align-self: start;
-  margin-top: 2px;
-}
-
-.voice-card-wide-title .voice-copy h3 {
-  grid-column: 1 / -1;
-  grid-row: 1;
-}
-
-.voice-card-wide-title .voice-copy p {
-  grid-column: 2;
-}
-
-.voice-copy h3.nowrap-heading {
-  font-size: clamp(0.76rem, 3.2vw, 0.82rem);
-  line-height: 1.55;
-  white-space: nowrap;
 }
 
 .voice-copy p {
